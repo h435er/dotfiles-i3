@@ -1,4 +1,16 @@
-replace youre i3 config file in the .config/i3/config directory with mine
-optional you can also download the eDEXui i have on my system
-save the wallpaper named "sword2" in the same directory .config/i3/
-change what you want and have fun :)
+requirements:
+-rofi
+-dolphin
+-thunar
+-xfce4
+-i3
+-tilix
+-fun
+
+TUTORIAL:
+cd .config/i3/
+rm config
+nano config
+-now copy my config file settings and paste it in there and save and close
+-reload youre settings with shift+win+c and shift+win+r
+-now you have my setup :)
