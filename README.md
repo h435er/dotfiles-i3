@@ -25,22 +25,39 @@ nano config
 
 USAGE:
 Ctrl+arrow keys:
+
 -change focused window
+
 Ctrl+Return:
+
 -terminal (tilix)
+
 Ctrl+e:
+
 -eDEX-UI (optional)
+
 win+q:
+
 -kill focused window
+
 Ctrl+ j/k/l/i:
+
 -move focused window
+
 Ctrl+p:
+
 -rofi
+
 win+number:
+
 -change workspace
+
 Ctrl+mouse:
+
 -move focused window via mouse
+
 win+r:
+
 -resize window via arrow key. press again win+r and it will stop resizing
 
 
