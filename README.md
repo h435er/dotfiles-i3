@@ -1,6 +1,6 @@
 ![first_rice](https://github.com/h435er/Dotfiles-for-i3-wm/assets/126166023/0c670b0f-19d2-40c6-9aa2-1abe7f56b56d)
 
-### REQUIREMENTS: 
+# REQUIREMENTS: 
 > rofi.
  
 > dolphin. 
@@ -16,7 +16,7 @@
 > zsh.
 
 
-### TUTORIAL:
+# TUTORIAL:
 ```
 cd .config/i3/
 
@@ -31,40 +31,40 @@ nano config
 
 - now you have my setup :). 
 
-### USAGE:
-# Ctrl+arrow keys:  
+# USAGE:
+### Ctrl+arrow keys:  
 
 - change focused window. 
 
-# Ctrl+Return:  
+### Ctrl+Return:  
 
 - terminal (alacritty). 
 
-# Ctrl+e:  
+### Ctrl+e:  
 
 - eDEX-UI (optional). 
 
-# win+q:  
+### win+q:  
 
 - kill focused window. 
 
-# Ctrl+ j/k/l/i:  
+### Ctrl+ j/k/l/i:  
 
 - move focused window. 
 
-# Ctrl+p:  
+### Ctrl+p:  
 
 - rofi. 
 
-# win+number:  
+### win+number:  
 
 - change workspace. 
 
-# Ctrl+mouse:  
+### Ctrl+mouse:  
 
 - move focused window via mouse. 
 
-# win+r:  
+### win+r:  
 
 - resize window via arrow key. press again win+r and it will stop resizing
 
