@@ -13,6 +13,8 @@
 
 > alacritty. 
 
+> zsh.
+
 
 ### TUTORIAL:
 ```
@@ -30,39 +32,39 @@ nano config
 - now you have my setup :). 
 
 ### USAGE:
-Ctrl+arrow keys:  
+# Ctrl+arrow keys:  
 
 - change focused window. 
 
-Ctrl+Return:  
+# Ctrl+Return:  
 
 - terminal (alacritty). 
 
-Ctrl+e:  
+# Ctrl+e:  
 
 - eDEX-UI (optional). 
 
-win+q:  
+# win+q:  
 
 - kill focused window. 
 
-Ctrl+ j/k/l/i:  
+# Ctrl+ j/k/l/i:  
 
 - move focused window. 
 
-Ctrl+p:  
+# Ctrl+p:  
 
 - rofi. 
 
-win+number:  
+# win+number:  
 
 - change workspace. 
 
-Ctrl+mouse:  
+# Ctrl+mouse:  
 
 - move focused window via mouse. 
 
-win+r:  
+# win+r:  
 
 - resize window via arrow key. press again win+r and it will stop resizing
 
