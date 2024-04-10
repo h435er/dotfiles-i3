@@ -14,7 +14,7 @@
 6.alacritty. 
 
 
-**TUTORIAL:**. 
+### TUTORIAL:
 ```
 cd .config/i3/
 
