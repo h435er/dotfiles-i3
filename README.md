@@ -7,7 +7,7 @@ REQUIREMENTS:
 3.thunar
 4.xfce4
 5.i3
-6.tilix
+6.alacritty
 7.fun
 
 TUTORIAL:
