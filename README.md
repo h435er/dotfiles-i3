@@ -1,61 +1,61 @@
 ![first_rice](https://github.com/h435er/Dotfiles-for-i3-wm/assets/126166023/0c670b0f-19d2-40c6-9aa2-1abe7f56b56d)
 
-REQUIREMENTS
-1.rofi
-2.dolphin
-3.thunar
-4.xfce4
-5.i3
-6.alacritty
-7.fun
+REQUIREMENTS: \\
+1.rofi. 
+2.dolphin. 
+3.thunar. 
+4.xfce4. 
+5.i3. 
+6.alacritty. 
 
-TUTORIAL:
-cd .config/i3/
 
-rm config
+TUTORIAL:  
+cd .config/i3/. 
 
-nano config
+rm config. 
 
--now copy my config file settings and paste it in there and save and close
+nano config. 
 
--reload youre settings with shift+win+c and shift+win+r
+-now copy my config file settings and paste it in there and save and close. 
 
--now you have my setup :)
+-reload youre settings with shift+win+c and shift+win+r. 
 
-USAGE:
-Ctrl+arrow keys:
+-now you have my setup :). 
 
--change focused window
+USAGE:  
+Ctrl+arrow keys:  
 
-Ctrl+Return:
+-change focused window. 
 
--terminal (alacritty)
+Ctrl+Return:  
 
-Ctrl+e:
+-terminal (alacritty). 
 
--eDEX-UI (optional)
+Ctrl+e:  
 
-win+q:
+-eDEX-UI (optional). 
 
--kill focused window
+win+q:  
 
-Ctrl+ j/k/l/i:
+-kill focused window. 
 
--move focused window
+Ctrl+ j/k/l/i:  
 
-Ctrl+p:
+-move focused window. 
 
--rofi
+Ctrl+p:  
 
-win+number:
+-rofi. 
 
--change workspace
+win+number:  
 
-Ctrl+mouse:
+-change workspace. 
 
--move focused window via mouse
+Ctrl+mouse:  
 
-win+r:
+-move focused window via mouse. 
+
+win+r:  
 
 -resize window via arrow key. press again win+r and it will stop resizing
 
