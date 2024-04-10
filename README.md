@@ -29,7 +29,7 @@ nano config
 
 -now you have my setup :). 
 
-**USAGE:**. 
+### USAGE:
 Ctrl+arrow keys:  
 
 -change focused window. 
