@@ -1,6 +1,6 @@
 ![first_rice](https://github.com/h435er/Dotfiles-for-i3-wm/assets/126166023/0c670b0f-19d2-40c6-9aa2-1abe7f56b56d)
 
-REQUIREMENTS:  
+###REQUIREMENTS:  
 1.rofi.
  
 2.dolphin. 
@@ -14,7 +14,7 @@ REQUIREMENTS:
 6.alacritty. 
 
 
-TUTORIAL:  
+###TUTORIAL:  
 "cd .config/i3/. 
 
 rm config. 
@@ -27,7 +27,7 @@ nano config. "
 
 -now you have my setup :). 
 
-USAGE:  
+###USAGE:  
 Ctrl+arrow keys:  
 
 -change focused window. 
