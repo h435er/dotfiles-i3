@@ -19,7 +19,7 @@
 
 rm config
 
-nano config``
+nano config`
 
 -now copy my config file settings and paste it in there and save and close. 
 
