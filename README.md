@@ -1,9 +1,10 @@
-![first_rice](https://github.com/h435er/Dotfiles-for-i3-wm/assets/126166023/0c670b0f-19d2-40c6-9aa2-1abe7f56b56d)
 
-# REQUIREMENTS: 
+![screen](https://github.com/h435er/dotfiles-i3/assets/126166023/fc814ea3-5178-4983-afb5-5c9df3627ea7)
+
+# REQUIREMENTS:
 > rofi.
- 
-> dolphin. 
+
+> dolphin.
 
 > thunar. 
 
