@@ -1,17 +1,17 @@
 ![first_rice](https://github.com/h435er/Dotfiles-for-i3-wm/assets/126166023/0c670b0f-19d2-40c6-9aa2-1abe7f56b56d)
 
 ### REQUIREMENTS: 
-1.rofi.
+> rofi.
  
-2.dolphin. 
+> dolphin. 
 
-3.thunar. 
+> thunar. 
 
-4.xfce4. 
+> xfce4. 
 
-5.i3. 
+> i3. 
 
-6.alacritty. 
+> alacritty. 
 
 
 ### TUTORIAL:
