@@ -15,11 +15,11 @@
 
 
 **TUTORIAL:**. 
-`cd .config/i3/
+``cd .config/i3/
 
 rm config
 
-nano config`
+nano config``
 
 -now copy my config file settings and paste it in there and save and close. 
 
