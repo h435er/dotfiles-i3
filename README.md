@@ -14,7 +14,7 @@
 6.alacritty. 
 
 
-**TUTORIAL:  **
+**TUTORIAL:**. 
 "cd .config/i3/. 
 
 rm config. 
@@ -27,7 +27,7 @@ nano config. "
 
 -now you have my setup :). 
 
-**USAGE:  **
+**USAGE:**. 
 Ctrl+arrow keys:  
 
 -change focused window. 
