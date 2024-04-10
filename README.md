@@ -15,7 +15,8 @@
 
 
 **TUTORIAL:**. 
-```cd .config/i3/
+```
+cd .config/i3/
 
 rm config
 
