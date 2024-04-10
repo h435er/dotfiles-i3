@@ -2,13 +2,14 @@
 
 REQUIREMENTS:
 
-1.rofi
+
+**1.rofi
 2.dolphin
 3.thunar
 4.xfce4
 5.i3
 6.alacritty
-7.fun
+7.fun**
 
 TUTORIAL:
 cd .config/i3/
