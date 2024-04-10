@@ -30,7 +30,7 @@ Ctrl+arrow keys:
 
 Ctrl+Return:
 
--terminal (tilix)
+-terminal (alacritty)
 
 Ctrl+e:
 
