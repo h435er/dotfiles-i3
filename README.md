@@ -69,4 +69,10 @@ nano config
 
 - resize window via arrow key. press again win+r and it will stop resizing
 
+### win+q:
+- random background image (requires archlinux-wallpaper)
+
+### win+a:
+- switching to standart background
+
 
