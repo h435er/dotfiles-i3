@@ -1,5 +1,5 @@
 
-![screen](https://github.com/h435er/dotfiles-i3/assets/126166023/fc814ea3-5178-4983-afb5-5c9df3627ea7)
+![Screenshot_2024-04-12_15-46-12](https://github.com/h435er/dotfiles-i3/assets/126166023/f1fe2702-33fc-4296-be6b-38ae63c3a5fc)
 
 # REQUIREMENTS:
 > rofi.
@@ -74,5 +74,6 @@ nano config
 
 ### win+a:
 - switching to standart background
+
 
 
