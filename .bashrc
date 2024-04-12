@@ -12,4 +12,5 @@ PS1='\W >  '
 #making random colorscript
 #colorscript random
 
-alias i3help='man ~/.config/i3/README.md'
+#when you forget the keybindings:
+#alias i3help='man ~/.config/i3/README.md'
