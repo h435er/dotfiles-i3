@@ -25,9 +25,6 @@ rm config
 
 nano config
 
-copy the README.md also for the i3help command (optionally)
-
-
 - now copy my config file settings and paste it in there and save and close. 
 
 - reload youre settings with shift+win+c and shift+win+r. 
