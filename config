@@ -26,9 +26,7 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 bindsym Ctrl+p exec --no-startup-id rofi -show drun
-
-#random image (optional)
-#bindsym Ctrl+q exec --no-startup-id feh --randomize --bg-max /usr/share/backgrounds/archlinux/
+bindsym Ctrl+q exec --no-startup-id feh --randomize --bg-max /usr/share/backgrounds/archlinux/
 bindsym Ctrl+a exec --no-startup-id feh --bg-scale '.config/i3/sword2.jpg'
 #optionally the eDEX-ui
 bindsym Ctrl+e exec ./eDEX-UI-Linux-x86_64.AppImage
@@ -43,7 +41,7 @@ tiling_drag modifier titlebar
 bindsym Ctrl+Return exec --no-startup-id alacritty
 
 #start dolphin
-bindsym Ctrl+d exec dolphin
+bindsym Ctrl+d exec nemo
 
 # kill focused window
 bindsym $mod+q kill
@@ -67,9 +65,9 @@ bindsym Ctrl+Up focus up
 bindsym Ctrl+Right focus right
 
 # move focused window
-bindsym Ctrl+j move left 
-bindsym Ctrl+k move down 
-bindsym Ctrl+i move up 
+bindsym Ctrl+j move left
+bindsym Ctrl+k move down
+bindsym Ctrl+i move up
 bindsym Ctrl+l move right
 
 
@@ -145,9 +143,12 @@ mode "resize" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
         bindsym $mod+r mode "default"
+
+
 }
 
-bindsym $mod+r mode "resize" 
+bindsym $mod+r mode "resize" ; exec notify-send   "Press Win+r again to stop resizing"
+
 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
